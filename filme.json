@@ -1,0 +1,26 @@
+[
+  {
+    "Nome": "Black Swan",
+    "AnoDeLancamento": 2010,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 10
+  },
+  {
+    "Nome": "Moana",
+    "AnoDeLancamento": 2016,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 10
+  },
+  {
+    "Nome": "Mean Girls",
+    "AnoDeLancamento": 2004,
+    "IncluidoNoPlano": false,
+    "SomaDasAvaliacoes": 0.0,
+    "TotalDeAvaliacoes": 0,
+    "DuracaoEmMinutos": 97
+  }
+]
